@@ -1,1 +1,3 @@
-This is just used for whenever I contribute to open source projects. All my personal projects can be found on codeberg
+# Welcome!
+
+I have code here. Maybe take a look if you want. More info at my website (I think)
